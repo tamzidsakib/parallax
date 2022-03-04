@@ -1,0 +1,12 @@
+.box{
+	min-height: 300px;
+	background-color: black;
+}
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+.box2{
+	min-height: 300px;
+	background-color: red;
+}
